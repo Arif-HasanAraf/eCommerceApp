@@ -1,0 +1,85 @@
+{
+  "whitelist": [
+    {
+      "name" : "Accossories",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+    "name" : "Cloth",
+    "subwhitelist": [
+      "Men",
+      "Women",
+      "Child",
+      "Top trends"
+    ]
+    },
+    {
+      "name" : "device",
+      "subwhitelist": [
+        "Laptop",
+        "Mobile",
+        "Desktop",
+        "CAmera"
+      ]
+    },
+    {
+      "name" : "Winter Dress",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+      "name" : "Leans",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+      "name" : "Geometry",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+      "name" : "Sports",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+      "name" : "Toys",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    },
+    {
+      "name" : "Electronicss",
+      "subwhitelist": [
+        "Mobile Acc",
+        "Laptop Acc",
+        "Tynker",
+        "Others"
+      ]
+    }
+  ]
+}
