@@ -1,6 +1,7 @@
 # ecommerceapp
 
-A new Flutter project.
+This one is a ecommerce Application project implement by Arif Hasan. 
+
 
 ## Getting Started
 
